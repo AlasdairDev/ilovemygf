@@ -51,7 +51,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   function yt() {
-    location.href = "https://www.youtube.com/watch?v=rs6Y4kZ8qtw";
+    location.href = "https://www.youtube.com/watch?v=nklsFqqIcjs&list=RDnklsFqqIcjs&start_radio=1";
   }
 
   presenteImg.addEventListener('click', abrir);
